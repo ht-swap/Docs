@@ -1,7 +1,7 @@
 # HTswap上线Huobi生态链
 
 ## 早鸟挖矿时间
-	2020.12.29 18:00开始，2021.1.19 17:59结束。
+	2020.12.29 20:00开始，2021.1.19 19:59结束。
 
 ## 挖矿规则
 
@@ -9,7 +9,7 @@ HTswap的HTC Token全部由挖矿产生，无私募，无预挖，早鸟阶段�
 
 ## 挖矿方法
 
-早鸟阶段通过https://huobi.anyswap.exchange 添加HBTC, HETH, HUSD等和HT的流动性后，在 https://htswap.io/farming 抵押流动性代币参与挖矿。
+早鸟阶段通过huobi.com提现HRC20至火币生态链，然后在https://huobi.anyswap.exchange 添加HBTC, HETH, HUSD等和HT的流动性后，在 https://htswap.io/farming 抵押流动性代币参与挖矿。
 
 ## 风险提示
 	HTswap合约代码审计未完成，挖矿可能会有无常损失导致本金损失的风险，请评估风险后参与。
