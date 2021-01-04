@@ -22,7 +22,7 @@ Rebase周期为2小时，rebase时间点为一个周期内的随机时间点。R
 
 挖矿系数：SDC/HT交易对100倍，HTC/HT交易对 4倍，HUSD/HT交易对 1倍，HT单币 0.5倍，HBTC单币0.5倍，HETH单币0.5倍。 
 
-参与步骤：通过 huobi.com 提现HRC20至火币生态链，然后在https://huobi.anyswap.exchange 添加SDC, HTC, HUSD等和HT的流动性后，在 https://htswap.io/sdc 抵押流动性代币参与挖矿。
+参与步骤：通过 huobi.com 提现HRC20至火币生态链，然后在https://huobi.anyswap.exchange 添加SDC, HTC, HUSD等和HT的流动性后，在 https://htswap.io/rebase 抵押流动性代币参与挖矿。
 
 ## 风险提示
 
